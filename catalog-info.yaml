@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Serviço Powerbuilder
+  description: Serviço de teste Powerbuilder para testar as regras de diferentes tipos de entidades
+spec:
+  type: pb-service
+  lifecycle: production
+  
